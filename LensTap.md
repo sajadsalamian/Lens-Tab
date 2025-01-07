@@ -61,7 +61,7 @@ Any application deployed to [Lens Network Testnet](https://dev-preview.lens.xyz/
 Saturday at 12:00 UTC, and at the end of each cycle, the total token
 revenue is distributed: 1st rank gets 50%, 2nd rank gets 30%, and
 3rd rank gets 20%. Compete, rank up, and earn rewards!
-   - **Source Code Link [GitHub - LensTab](https://github.com/sajadsalamian/LensTab)
+   - **Source Code Link [GitHub - LensTap](https://github.com/sajadsalamian/LensTab)
    - **Preview Link (Optional):** [Live Preview - LensTap App](https://lenstab.vercel.app/)
    - **Demo Video/Slide Deck Link (Optional): [Live Preview - Youtube] (https://www.youtube.com/watch?v=5F153-dxjCU)
    - **Screenshots (Optional):**
