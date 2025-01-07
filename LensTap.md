@@ -64,7 +64,7 @@ revenue is distributed: 1st rank gets 50%, 2nd rank gets 30%, and
 3rd rank gets 20%. Compete, rank up, and earn rewards!
    - **Source Code Link [GitHub - LensTap](https://github.com/sajadsalamian/LensTab)
    - **Preview Link (Optional):** [Live Preview - Telegram Bot](https://t.me/lenstapbot)
-   - **Demo Video/Slide Deck Link (Optional): [Live Preview - Youtube] (https://www.youtube.com/watch?v=5F153-dxjCU)
+   - **Demo Video/Slide Deck Link (Optional): [Live Preview - Youtube](https://www.youtube.com/watch?v=5F153-dxjCU)
    - **Screenshots (Optional):**
 
 ### Troubleshooting:
