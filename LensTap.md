@@ -56,13 +56,14 @@ Any application deployed to [Lens Network Testnet](https://dev-preview.lens.xyz/
 
 2. **PR Format:**
    - **Project Name:** Lens Tap
-   - **Team Members:**
+   - **Team Members:** - **YASIN HANIM** (Lens Handle: **@woman-life-freedom**) - Co-Founder  
+- **Sajad Salamian** (Lens Handle: **@boobby**) - Co-Founder & Lead Developer Lead (Full Stack Developer)
    - **Project Description:** Players purchase tokens to join the game. Campaigns start every
 Saturday at 12:00 UTC, and at the end of each cycle, the total token
 revenue is distributed: 1st rank gets 50%, 2nd rank gets 30%, and
 3rd rank gets 20%. Compete, rank up, and earn rewards!
    - **Source Code Link [GitHub - LensTap](https://github.com/sajadsalamian/LensTab)
-   - **Preview Link (Optional):** [Live Preview - LensTap App](https://lenstab.vercel.app/)
+   - **Preview Link (Optional):** [Live Preview - Telegram Bot](https://t.me/lenstapbot)
    - **Demo Video/Slide Deck Link (Optional): [Live Preview - Youtube] (https://www.youtube.com/watch?v=5F153-dxjCU)
    - **Screenshots (Optional):**
 
